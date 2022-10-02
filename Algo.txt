@@ -1,7 +1,7 @@
 Pizza Algo
 
 1. Decide what restaruant to order from
-2. Decide what pizza to order
+2. Decide what pizza and toppings to order
 3. Call the restaruant
 4. Wait on the pizza
 5. Pay and tip the driver
